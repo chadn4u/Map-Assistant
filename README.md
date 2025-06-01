@@ -7,12 +7,15 @@ Sistem API berbasis **FastAPI** yang memanfaatkan **Ollama (Mistral model)** dan
 ## 🚀 Fitur
 
 - 🎯 **Intent Recognition via LLM (Ollama)**
+
   - Menyimpulkan maksud user: pencarian tempat, arah jalan, rekomendasi, dsb.
 
 - 📍 **Integrasi Google Maps API**
+
   - Cari tempat, rekomendasi lokasi, dan petunjuk arah otomatis.
 
 - 🤖 **Respons Natural via LLM**
+
   - Jawaban dalam gaya percakapan, lengkap dengan tautan Maps.
 
 - 🔁 **Follow-up Handling**
@@ -49,7 +52,7 @@ Sistem API berbasis **FastAPI** yang memanfaatkan **Ollama (Mistral model)** dan
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/yourusername/ai-location-assistant.git
+git clone https://github.com/chadn4u/Map-Assistant.git
 cd ai-location-assistant
 ```
 
@@ -60,6 +63,7 @@ pip install -r requirements.txt
 ```
 
 > Jika file tidak tersedia:
+>
 > ```bash
 > pip install fastapi uvicorn requests python-dotenv
 > ```
@@ -137,4 +141,4 @@ uvicorn main:app --reload
 
 ## 👨‍💻 Developer
 
-Dibuat oleh Richard Mario 
+Dibuat oleh Richard Mario
