@@ -139,6 +139,10 @@ uvicorn main:app --reload
 
 ---
 
+## Notes
+
+- Untuk Response yang sesuai jika menggunakan Model Mistral gunakan Bahasa Inggris dalam request
+
 ## 👨‍💻 Developer
 
 Dibuat oleh Richard Mario
