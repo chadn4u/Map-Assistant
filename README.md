@@ -29,7 +29,7 @@ Sistem API berbasis **FastAPI** yang memanfaatkan **Ollama (Mistral model)** dan
 - [Ollama](https://ollama.com/)
 - [Mistral LLM](https://ollama.com/library/mistral)
 - [Google Maps API](https://console.cloud.google.com/)
-- Python 3.9+
+- Python 3.13.1
 
 ---
 
