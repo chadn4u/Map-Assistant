@@ -53,7 +53,7 @@ Sistem API berbasis **FastAPI** yang memanfaatkan **Ollama (Mistral model)** dan
 
 ```bash
 git clone https://github.com/chadn4u/Map-Assistant.git
-cd ai-location-assistant
+cd Map-Assistant
 ```
 
 ### 2. Install Dependensi
